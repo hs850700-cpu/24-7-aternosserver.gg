@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "gojosmp-I2yl.aternos.me",
+    "port": 57742,
     "version": "1.20.1",
     "try-creative": false
   },
